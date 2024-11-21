@@ -13,6 +13,8 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/textea-json-viewer-v3-b4wgxq?file=pages%2Findex.js)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/TexteaInc/json-viewer)
+
 ## Features 🚀
 
 - 🦾 100% TypeScript
